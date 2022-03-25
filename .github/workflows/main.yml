@@ -45,6 +45,7 @@ jobs:
 
     # Uncomment to upload test coverage to Codecov
     # - name: Upload coverage to Codecov
+    #   if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
     #   uses: codecov/codecov-action@v2
     #   with:
     #     token: ${{ secrets.CODECOV_TOKEN }}
