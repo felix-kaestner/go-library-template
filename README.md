@@ -26,7 +26,11 @@
     </a>
 </p>
 
-## Quickstart
+## Usage 
+
+Simply scaffold a new project using the `Use this template`-Button on the [Repository GitHub Page](https://github.com/felix-kaestner/go-library-template).
+
+<!-- ## Quickstart
 
 ```go
 package main
@@ -44,7 +48,7 @@ Install with the `go get` command:
 
 ```
 $ go get -u github.com/felix-kaestner/go-library-template
-```
+``` -->
 
 ## Contribute
 
