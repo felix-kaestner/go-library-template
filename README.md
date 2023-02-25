@@ -55,4 +55,6 @@ $ go get -u github.com/felix-kaestner/go-library-template
 All contributions in any form are welcome! 🙌🏻  
 Just use the [Issue](.github/ISSUE_TEMPLATE) and [Pull Request](.github/PULL_REQUEST_TEMPLATE) templates and I'll be happy to review your suggestions. 👍
 
-## Cheers ✌🏻
+---
+
+Released under the [MIT License](LICENSE).
